@@ -1,4 +1,4 @@
-var presiden44 {
+var president44 {
 	firstName : "Barak",
 	lastName : "Obama",
 	termLength : 2;
@@ -37,3 +37,11 @@ var president40 {
 	party : "republican",
 	yearsOfPresidency : 8,
 };
+
+var presidents = [
+	'president44',
+	'president43',
+	'president42',
+	'president41',
+	'president40'
+];
